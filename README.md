@@ -1,4 +1,5 @@
 <img src="https://raw.github.com/juricap/mPsy/gh-pages/_images/logo_mpsy512_g.png" width="64" heitgh="64" align="right">
+
 Modular Psychophysics (mPsy)
 ----------------------------
 
